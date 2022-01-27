@@ -1,5 +1,5 @@
 # CountDown
-This programme is used to give the tempo of physical exercises.
+This programm is used to give the tempo of physical exercises.
 ## Files
 **CountDown.py**. Main programme written in Python 3.9. I use several libraries and the grafical interface in in GTK-3.
 Libraries: gi for GTK, time for the rythm, threading for real-time update, os for commands, playsound for sound (it's easier than os commands).

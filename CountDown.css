@@ -1,0 +1,33 @@
+#Exit { 
+	background-color: #f00; }
+	
+#WebSite { 
+	color: darkcyan;
+	font-size: large; }
+	
+#Username { 
+	font-size: x-small; }
+
+label#CountDown { 
+	color: red; 
+	font-size: 256px; }
+
+button#Started { 
+	color: green; 
+	font-size: 64px; }
+
+button#Stopped { 
+	color: red; 
+	font-size: 64px; }
+
+button#Paused { 
+	color: orange; 
+	font-size: 64px; }
+
+spinbutton entry { 
+	color: #900185; }
+
+#SaveButton { 
+	color: red; 
+	background: green; 
+	font-size: large; }
